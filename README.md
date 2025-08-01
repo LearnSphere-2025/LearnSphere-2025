@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Upstage와 패스크캠퍼스가 함께하는 인공지능(AI) 부트캠프 참여 중입니다. 
+Upstage와 패스크캠퍼스가 함께 진행하는 AI 부트캠프 참여 중입니다. 
