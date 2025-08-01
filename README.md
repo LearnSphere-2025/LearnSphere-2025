@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👋 Hi
 
 안녕하세요! 
 Upstage와 패스크캠퍼스가 함께 진행하는 AI 부트캠프 참여 중입니다. 머신러닝(ML), MLOps, 컴퓨터 비전(CV), 대규모 언어 모델(LLM)에 실전 경험을 쌓았고,  
@@ -6,7 +6,7 @@ Upstage와 패스크캠퍼스가 함께 진행하는 AI 부트캠프 참여 중�
 
 https://learnsphere-2025.github.io/day74/
 
-👋 Hi there! I'm currently participating in an AI bootcamp, gaining hands-on experience in Machine Learning (ML), MLOps, Computer Vision (CV), and Large Language Models (LLMs).
+✨ I'm currently participating in an AI bootcamp, gaining hands-on experience in Machine Learning (ML), MLOps, Computer Vision (CV), and Large Language Models (LLMs).
 🎓 I'm passionate about educational technology (EdTech) and aim to contribute to improving learning experiences through AI and data-driven solutions.
 
 ---
