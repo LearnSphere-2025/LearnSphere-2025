@@ -4,8 +4,6 @@
 Upstage와 패스크캠퍼스가 함께 진행하는 AI 부트캠프 참여 중입니다. 
 머신러닝(ML), MLOps, 컴퓨터 비전(CV), 대규모 언어모델(LLM)에 대한 실전경험을 쌓았고, 이 기술들을 활용해 학습경험을 혁신하는 **에듀테크(EdTech)** 분야에 도움이 되고 싶습니다.
 
-https://learnsphere-2025.github.io/
-
 ✨ I'm currently participating in an AI bootcamp, gaining hands-on experience in Machine Learning (ML), MLOps, Computer Vision (CV), and Large Language Models (LLMs).
 
 🎓 I'm passionate about educational technology (EdTech) and aim to contribute to improving learning experiences through AI and data-driven solutions.
