@@ -16,6 +16,7 @@ Upstage와 패스크캠퍼스가 함께 진행하는 AI 부트캠프 참여 중�
 - **MLOps**: `Docker`, `Airflow`, `Wandb`, `FastAPI`, `AWS S3`, `EC2`, `GitHub`, `Ubuntu`, `Bash`
 - **Data**: `pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `MySQL`
 - **ETC**: `Streamlit`, `Gradio`, `VS Code`, `Jupyter`, `Markdown`
+- **Competition**: `Kaggle`, `Dacon`
 
 ---
 
