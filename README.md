@@ -16,6 +16,6 @@
 
 ## 📌 Interests
 
-`#AI` `#EdTech` `#LLM` `#MLOps` `#Data2Product` `#ModelDeployment`
+`#AI` `#EdTech` `#LLM` `#CV` `#OCR` `#MLOps` `#Data2Product` `#ModelDeployment`
 
 ---
