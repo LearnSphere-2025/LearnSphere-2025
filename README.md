@@ -8,7 +8,7 @@
 - **AI/ML**: PyTorch, HuggingFace Transformers, scikit-learn, Optuna, BGE Reranker, DocLayout-YOLO
 - **MLOps & Cloud**: Capacitor, Docker, Airflow, Wandb, FastAPI, AWS, Google Cloud, Firebase, GitHub, Ubuntu, Bash
 - **Data & Document**: pandas, NumPy, Matplotlib, Seaborn, MySQL, PyMuPDF, python-docx, Layout Analysis, BM25/Vector search
-- **ETC & Frontend**: React 19, TypeScript, Tailwind CSS, Vite 6, Next.js, Streamlit, Gradio, VS Code, Jupyter, Markdown, Web Audio API, Web Speech API
+- **ETC & Frontend**: React, TypeScript, Tailwind CSS, Vite, Next.js, Streamlit, Gradio, VS Code, Jupyter, Markdown, Web Audio API, Web Speech API
 - **Competition**: Kaggle, Dacon
 
 ### 📌 Interests
